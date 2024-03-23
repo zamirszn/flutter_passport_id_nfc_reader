@@ -1,0 +1,1 @@
+ C:\\Users\\MUBARAK\\Desktop\\kadi_tour_id\\kadi_tour_id\\.dart_tool\\flutter_build\\56ac613b931f8aaf78e16f748df74489\\native_assets.yaml: 
